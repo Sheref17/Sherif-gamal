@@ -15,6 +15,7 @@ button{
     background-color: blue;
     color: white;
     transition: .5s;
+    font-size: 18px;
 }
 button:hover{
     background-color: green;
